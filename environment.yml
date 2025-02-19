@@ -1,0 +1,13 @@
+name: default
+channels:
+- conda-forge
+- nodefaults
+dependencies:
+- python >=3.13.2,<3.14
+- pip
+- pip:
+  - notebook[dev]>=7.3.2
+  - numpy>=2.2.2
+  - pandas>=2.2.3
+  - unidecode>=1.3.8
+
