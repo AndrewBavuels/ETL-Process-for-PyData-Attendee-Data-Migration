@@ -2,7 +2,7 @@
 
 ETL Process for PyData Attendee Data Migration by Andrew Bavuels
 
-![pydata_banner](https://github.com/user-attachments/assets/e4564461-bb0b-4612-be7f-0f13da5d8264)
+![pydata_banner](https://github.com/user-attachments/assets/45adac69-6ef6-48a6-9dd1-43e70da7f483)
 
 ## Project Description 👇
 
@@ -81,6 +81,6 @@ pixi run python merge_lists.py --guild event-attendee-export.csv --meetup _Embed
 
 The `attendees.csv` is the final **ETL** output file containing the consolidated attendee list with relevant attributes. **It will be generated in the repo root directory.**
 
-![closure](https://github.com/user-attachments/assets/53ad7179-e14f-492b-95c4-19010d63f69a)
+![closure](https://github.com/user-attachments/assets/10302aa5-9a58-41b3-8c93-fcad2a460674)
 
 ## See you in the next events! [Click here for future PyData Events](https://guild.host/pydata-madrid/events)
