@@ -57,7 +57,7 @@ pixi sync
 pixi run pip install -r requirements.txt  # Install missing pip dependencies
 ```
 
-## Libraries included in both the virtual environment and the .py Script 💻
+## Libraries in the virtual environment and the Python Script 💻
 
 - [Pandas](https://pandas.pydata.org/docs/reference/frame.html): Data manipulation and analysis.
 - [Argparse](https://docs.python.org/3/library/argparse.html): Command-line parsing.
